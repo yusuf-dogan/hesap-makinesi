@@ -1,3 +1,3 @@
 ## responsive hesap makinesi- responsive calculator
 
-![Screenshot](https://user-images.githubusercontent.com/98260376/230852894-ac80fc05-4931-4ae7-9420-71bd472acba5.png)
+![Screenshot](https://user-images.githubusercontent.com/98260376/230868932-c351705c-f6a0-42b2-9674-e661b62c9305.png)
